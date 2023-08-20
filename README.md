@@ -13,5 +13,5 @@
 
 <img
   align="center"
-  src="https://github-readme-stats.vercel.app/api/?username=lil-youn&theme=dracula"
+  src="https://github-readme-stats.vercel.app/api/?username=lil-youn&theme=dracula&show_icons=true"
 />
