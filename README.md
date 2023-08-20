@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lil-youn)]
+[![Simon's GitHub stats](https://github-readme-stats.vercel.app/api?username=lil-youn)]
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
