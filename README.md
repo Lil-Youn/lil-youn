@@ -11,10 +11,7 @@
 
 
 
-<img
-  align="center"
-  src="https://github-readme-stats.vercel.app/api/?username=lil-youn&show_icons=true"
-/>
+
 <img
   align="center"
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=lil-youn&layout=donut"
