@@ -13,7 +13,7 @@
 
 <img
   align="center"
-  src="https://github-readme-stats.vercel.app/api/?username=lil-youn&theme=dracula&show_icons=true"
+  src="https://github-readme-stats.vercel.app/api/?username=lil-youn&show_icons=true"
 />
 <img
   align="center"
