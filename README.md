@@ -17,7 +17,7 @@
 />
 <img
   align="center"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=lil-youn&theme=dracula&hide_progress=true"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=lil-youn&hide_progress=true"
 />
 
 
