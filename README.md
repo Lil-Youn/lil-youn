@@ -10,9 +10,14 @@
 - ⚡ Fun fact: From Chef to dev... isn't that fun?
 
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lil-youn)]
 <img
   align="center"
   src="https://github-readme-stats.vercel.app/api/?username=lil-youn&theme=dracula&show_icons=true"
 />
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lil-youn)]
+<img
+  align="center"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=lil-youn&theme=dracula&show_icons=true"
+/>
+
+
